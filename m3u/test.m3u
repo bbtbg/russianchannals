@@ -1,57 +1,32 @@
-﻿#EXTM3U
-#EXTINF:-1,US - Bein Sports USA
-http://bb1.qat5.ru:80/live/john21/john21/9700.ts
-#EXTINF:-1,US - ESPN 1
-http://bb1.qat5.ru:80/live/john21/john21/9709.ts
-#EXTINF:-1,US - ESPN 2
-http://bb1.qat5.ru:80/live/john21/john21/9710.ts
-#EXTINF:-1,US - Fox Sports 1
-http://bb1.qat5.ru:80/live/john21/john21/9701.ts
-#EXTINF:-1,US - Fox Sports 2
-http://bb1.qat5.ru:80/live/john21/john21/9702.ts
-#EXTINF:-1,US - MLB Network
-http://bb1.qat5.ru:80/live/john21/john21/9707.ts
-#EXTINF:-1,US - NBA TV
-http://bb1.qat5.ru:80/live/john21/john21/9708.ts
-#EXTINF:-1,US - NBC Golf
-http://bb1.qat5.ru:80/live/john21/john21/9704.ts
-#EXTINF:-1,US - NBC Sports Network
-http://bb1.qat5.ru:80/live/john21/john21/9703.ts
-#EXTINF:-1,US - NFL Network
-http://bb1.qat5.ru:80/live/john21/john21/9706.ts
-#EXTINF:-1,US - NFL NOW
-http://bb1.qat5.ru:80/live/john21/john21/9705.ts
-#EXTINF:-1,US - PAC-12 ARIZONA
-http://bb1.qat5.ru:80/live/john21/john21/9720.ts
-#EXTINF:-1,US - PAC-12 BAY AREA
-http://bb1.qat5.ru:80/live/john21/john21/9722.ts
-#EXTINF:-1,US - PAC-12 LOS ANGELES
-http://bb1.qat5.ru:80/live/john21/john21/9721.ts
-#EXTINF:-1,US - PAC-12 MOUNTAIN
-http://bb1.qat5.ru:80/live/john21/john21/9719.ts
-#EXTINF:-1,US - PAC-12 NATIONAL
-http://bb1.qat5.ru:80/live/john21/john21/9718.ts
-#EXTINF:-1,US - PAC-12 OREGON
-http://bb1.qat5.ru:80/live/john21/john21/9723.ts
-#EXTINF:-1,US - SportsNet 1
-http://bb1.qat5.ru:80/live/john21/john21/9711.ts
-#EXTINF:-1,US - SportsNet 360
-http://bb1.qat5.ru:80/live/john21/john21/9716.ts
-#EXTINF:-1,US - SportsNet EAST
-http://bb1.qat5.ru:80/live/john21/john21/9715.ts
-#EXTINF:-1,US - SportsNet ONTARIO
-http://bb1.qat5.ru:80/live/john21/john21/9712.ts
-#EXTINF:-1,US - SportsNet PACIFIC
-http://bb1.qat5.ru:80/live/john21/john21/9714.ts
-#EXTINF:-1,US - SportsNet WEST
-http://bb1.qat5.ru:80/live/john21/john21/9713.ts
-#EXTINF:-1,US - TSN 1
-http://bb1.qat5.ru:80/live/john21/john21/1031.ts
-#EXTINF:-1,US - TSN 2
-http://bb1.qat5.ru:80/live/john21/john21/1032.ts
-#EXTINF:-1,US - TSN 3
-http://bb1.qat5.ru:80/live/john21/john21/1033.ts
-#EXTINF:-1,US - TSN 4
-http://bb1.qat5.ru:80/live/john21/john21/1034.ts
-#EXTINF:-1,US - TSN 5
-http://bb1.qat5.ru:80/live/john21/john21/1035.ts
+﻿#EXTINF:-1,BE LA DEUX HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23443.ts
+#EXTINF:-1,BE LA TROIS HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23442.ts
+#EXTINF:-1,BE LA UNE HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23444.ts
+#EXTINF:-1,BE RTLTVI  HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23441.ts
+#EXTINF:-1,BE PLUG RTL
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23440.ts
+#EXTINF:-1,BE:CLUB RTL
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23439.ts
+#EXTINF:-1,BE CINE
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23437.ts
+#EXTINF:-1,BE  192 TV
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23431.ts
+#EXTINF:-1,BE 2BE HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23424.ts
+#EXTINF:-1,BE CANVAS  HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23425.ts
+#EXTINF:-1,BE EEN HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23426.ts
+#EXTINF:-1,BE KADET
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23427.ts
+#EXTINF:-1,BE KETOP12
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23428.ts
+#EXTINF:-1,BE NAT.GEO HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23429.ts
+#EXTINF:-1,BE VIER HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23430.ts
+#EXTINF:-1,BE VTM HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/23438.ts
