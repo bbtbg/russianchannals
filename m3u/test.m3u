@@ -1,0 +1,92 @@
+#EXTM3U Testing
+
+#EXTINF:-1,1HD
+http://iptv-zdox.usite.pro/play_test/1hd_hd.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://iptv-zdox.usite.pro/play_test/amedia_premium_hd.m3u8
+#EXTINF:-1,Animal Planet HD
+http://iptv-zdox.usite.pro/play_test/animal_planet_hd.m3u8
+#EXTINF:-1,Bollywood HD
+http://iptv-zdox.usite.pro/play_test/bollywood_hd.m3u8
+#EXTINF:-1,BRIDGE HD
+http://iptv-zdox.usite.pro/play_test/bridge_hd.m3u8
+#EXTINF:-1,Discovery HD
+http://iptv-zdox.usite.pro/play_test/discovery_hd.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://iptv-zdox.usite.pro/play_test/eurosport1_hd.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://iptv-zdox.usite.pro/play_test/eurosport2_hd.m3u8
+#EXTINF:-1,FOX HD
+http://iptv-zdox.usite.pro/play_test/fox_hd.m3u8
+#EXTINF:-1,HD life
+http://iptv-zdox.usite.pro/play_test/hd_life_hd.m3u8
+#EXTINF:-1,History HD
+http://iptv-zdox.usite.pro/play_test/history_hd.m3u8
+#EXTINF:-1,Hustler HD
+http://iptv-zdox.usite.pro/play_test/hustler_hd.m3u8
+#EXTINF:-1,Mezzo live HD
+http://iptv-zdox.usite.pro/play_test/mezzo_live_hd.m3u8
+#EXTINF:-1,MGM HD
+http://iptv-zdox.usite.pro/play_test/mgm_hd.m3u8
+#EXTINF:-1,MTV live HD
+http://iptv-zdox.usite.pro/play_test/mtv_live_hd.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv-zdox.usite.pro/play_test/nat_geo_wild_hd.m3u8
+#EXTINF:-1,National Geographic HD
+http://iptv-zdox.usite.pro/play_test/national_geographic_hd.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://iptv-zdox.usite.pro/play_test/nickelodeon_hd.m3u8
+#EXTINF:-1,Redlight HD
+http://iptv-zdox.usite.pro/play_test/redlight_hd.m3u8
+#EXTINF:-1,RTG HD
+http://iptv-zdox.usite.pro/play_test/rtg_hd.m3u8
+#EXTINF:-1,TLC HD
+http://iptv-zdox.usite.pro/play_test/tlc_hd.m3u8
+#EXTINF:-1,Travel Channel HD
+http://iptv-zdox.usite.pro/play_test/travel_channel_hd.m3u8
+#EXTINF:-1,TV1000 Comedy HD
+http://iptv-zdox.usite.pro/play_test/TV1000_comedy_hd.m3u8
+#EXTINF:-1,TV1000 Megahit HD
+http://iptv-zdox.usite.pro/play_test/TV1000_megahit_hd.m3u8
+#EXTINF:-1,TV1000 Premium HD
+http://iptv-zdox.usite.pro/play_test/TV1000_premium_hd.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+http://iptv-zdox.usite.pro/play_test/viasat_nature_history_hd.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://iptv-zdox.usite.pro/play_test/viasat_sport_hd.m3u8
+#EXTINF:-1,??? ???? ??????? HD
+http://iptv-zdox.usite.pro/play_test/dom_kino_premium_hd.m3u8
+#EXTINF:-1,????????????
+http://iptv-zdox.usite.pro/play_test/kinopremera_hd.m3u8
+#EXTINF:-1,?????? ??? HD
+http://iptv-zdox.usite.pro/play_test/konniy_mir_hd.m3u8
+#EXTINF:-1,??? HD
+http://iptv-zdox.usite.pro/play_test/khl_hd.m3u8
+#EXTINF:-1,????! HD
+http://iptv-zdox.usite.pro/play_test/match_tv_hd.m3u8
+#EXTINF:-1,????! ????? HD
+http://iptv-zdox.usite.pro/play_test/match_arena_hd.m3u8
+#EXTINF:-1,????! ???? HD
+http://iptv-zdox.usite.pro/play_test/match_igra_hd.m3u8
+#EXTINF:-1,????! ?????? 1 HD
+http://iptv-zdox.usite.pro/play_test/match_footboll1_hd.m3u8
+#EXTINF:-1,????! ?????? 2 HD
+http://iptv-zdox.usite.pro/play_test/match_footboll2_hd.m3u8
+#EXTINF:-1,????! ?????? 3 HD
+http://iptv-zdox.usite.pro/play_test/match_footboll3_hd.m3u8
+#EXTINF:-1,??? HD
+http://iptv-zdox.usite.pro/play_test/mir_hd.m3u8
+#EXTINF:-1,??? ?????? HD
+http://iptv-zdox.usite.pro/play_test/nash_footboll_hd.m3u8
+#EXTINF:-1,??? HD
+http://iptv-zdox.usite.pro/play_test/ntv_hd.m3u8
+#EXTINF:-1,??? ???
+http://iptv-zdox.usite.pro/play_test/ntv-hit.m3u8
+#EXTINF:-1,?????? ????? HD
+http://iptv-zdox.usite.pro/play_test/perviy_channel_hd.m3u8
+#EXTINF:-1,?????? 1 HD
+http://iptv-zdox.usite.pro/play_test/rossiya1_hd.m3u8
+#EXTINF:-1,???? HD
+http://iptv-zdox.usite.pro/play_test/tlum_hd.m3u8
+#EXTINF:-1,??? HD
+http://iptv-zdox.usite.pro/play_test/tnt_hd.m3u8
