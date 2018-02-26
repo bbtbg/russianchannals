@@ -1,607 +1,71 @@
-﻿#EXTM3U Russian
-#EXTINF:0, 1 Крым HD
-http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
-#EXTINF:0, 1+1
-http://159.224.120.38:8888/udp/238.0.0.3:1234
-#EXTINF:0, 1_Kvartal TV
-http://91.242.77.7:8000/play/a001
-#EXTINF:0, 2
-http://109.87.252.90:8888/udp/238.0.0.12:1234
-#EXTINF:0, 24 Крым HD
-http://vid.techbee.pro:8080/crimea24/index.m3u8
-#EXTINF:0, 4FunTV
-http://93.120.231.151:6689/stream?cid=5217
-#EXTINF:0, 4TV (Украина)
-http://online.tv4.te.ua:8081/nimble_live/tv4/playlist.m3u8
-#EXTINF:0, 5
-http://109.87.252.90:8888/udp/238.0.0.6:1234
-#EXTINF:0, 5 kanal
-http://109.63.157.97:4022/udp/233.49.170.51:5000
-#EXTINF:0, 7 Канал
-http://195.66.213.70:81/udp/224.5.1.5:1234
-#EXTINF:0, 8 tv
-rtmp://air.8tv.ru/rr/stream
-#EXTINF:0, A1
-http://31.31.110.148:88/udp/239.0.17.13:1234
-#EXTINF:0, Africa, RU, PT, ES, DE
-http://portalipt.ddns.net:12000/get.php?username=ngogRwm7kH&password=lmuvhbmD6r&type=m3u
-#EXTINF:0, ALLFON.TV FULL
-http://s3.dosya.tc/server8/w6ziag/ALLFON.TV.txt.html
-#EXTINF:0, Astra
-http://149.255.155.202:8000/playlist.m3u8
-#EXTINF:0, Best Film Hd
-http://fr.phpsid.ru:8888/iframe/BF/chunks.m3u8?nimblesessionid=185279&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMTggMzoxMzoyMSBQTSZoYXNoX3ZhbHVlPU1PaEFiVkVxbjl6TENIUHE0aXNtbFE9PSZ2YWxpZG1pbnV0ZXM9MjAmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTkgJmlkPWlmcmFtZQ==
-#EXTINF:0, bhh
-http://194.143.148.19:7088/udp/233.187.37.114:1234
-#EXTINF:0, BOG ТВ RUSSIA
-http://bogtvhdlive-f.akamaihd.net/i/bogtv_main@69601/master.m3u8
-#EXTINF:0, Boomerang RU
-http://77.120.118.235:8085
-#EXTINF:0, CBS Reality
-http://31.3.245.58/iptv/RR6UAF45LLXMGW/706/index.m3u8
-#EXTINF:0, CHANNEL
-http://109.87.252.90:8888/udp/238.0.0.64:1234
-#EXTINF:0, Channel 1 Russia
-http://81.177.217.172:4022/udp/232.1.20.4:1234
-#EXTINF:0, Channel One Russia HD
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:channelonerussia_ru/playlist.m3u8
-#EXTINF:0, CK
-http://185.64.47.125:11128
-#EXTINF:0, CT HD
-http://80.245.113.12/live//pubtalk1/playlist.m3u8
-#EXTINF:0, CTC
-http://109.87.252.90:8888/udp/238.0.0.120:1234
-#EXTINF:0, CTC
-http://ott.watch/stream/Q4P8WLNEFU/138.m3u8
-#EXTINF:0, duck
-http://37.9.0.201:8890?streamType=live
-#EXTINF:0, Euronews (RU)
-rtsp://fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive/ru_video750_flash_all.sdp
-#EXTINF:0, Film+
-http://185.44.118.34:40555/udp/239.1.0.80:4000
-#EXTINF:0, FOX
-http://bit.do/fox-lore
-#EXTINF:0, Fox
-http://31.43.120.162:8103
-#EXTINF:0, FOX Life
-http://bit.do/foxlife-lore
-#EXTINF:0, Fox Life
-http://31.43.120.162:8104
-#EXTINF:0, Fr
-http://89.23.173.104:3371/udp/239.1.13.4:1234
-#EXTINF:0, gamma
-http://gamma.tv:1935/live/1_gamma/playlist.m3u8
-#EXTINF:0, hitirossii
-http://hitirossii.com:8000/m3u
-#EXTINF:0, http://109.106.138.172:1234/udp/239.0.3.2:3000?mp4
-http://109.106.138.172:1234/udp/239.0.3.2:3000?mp4
-#EXTINF:0, http://176.197.152.182:1234/udp/239.255.42.1:1234
-http://176.197.152.182:1234/udp/239.255.42.1:1234
-#EXTINF:0, http://188.134.12.86:81/udp/235.10.10.8:1234
-http://188.134.12.86:81/udp/235.10.10.8:1234
-#EXTINF:0, http://188.226.83.226:81//udp/239.255.2.122:1234?mp4
-http://188.226.83.226:81//udp/239.255.2.122:1234?mp4
-#EXTINF:0, http://212.164.1.229:1234/udp/233.7.70.45:5000
-http://212.164.1.229:1234/udp/233.7.70.45:5000
-#EXTINF:0, http://212.164.1.229:1234/udp/233.7.70.45:5000
-http://212.164.1.229:1234/udp/233.7.70.45:5000
-#EXTINF:0, http://217.174.225.146/legacyhls/ch009.m3u8
-http://217.174.225.146/legacyhls/ch009.m3u8
-#EXTINF:0, http://5.19.143.84:7781/udp/235.10.10.158:1234?mp4
-http://5.19.143.84:7781/udp/235.10.10.158:1234?mp4
-#EXTINF:0, http://79.164.62.198:1234/udp/239.255.2.9:1234
-http://79.164.62.198:1234/udp/239.255.2.9:1234
-#EXTINF:0, http://hls.goodgame.ru/hls/6147.m3u8
-http://hls.goodgame.ru/hls/6147.m3u8
-#EXTINF:0, http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:0, http://live.tvtomsk.ru/hls/RT-24.m3u8
-http://live.tvtomsk.ru/hls/RT-24.m3u8
-#EXTINF:0, http://nfw.video.rian.ru/flv/audio.aspx?ID=68862011&type=mp3?radio_sputnik.mp3
-http://nfw.video.rian.ru/flv/audio.aspx?ID=68862011&type=mp3?radio_sputnik.mp3
-#EXTINF:0, http://oklivetv.com/fox-hd-russia-live/
-http://oklivetv.com/fox-hd-russia-live/
-#EXTINF:0, http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:0, ICTV
-http://109.87.252.90:8888/udp/238.0.0.5:1234
-#EXTINF:0, inter
-http://178.150.196.161:7781/udp/238.0.57.177:1234
-#EXTINF:0, IZ.RU
-http://62.76.18.67:81/udp/239.195.5.49:1234?mp4
-#EXTINF:0, KIEV
-http://109.87.252.90:8888/udp/238.0.0.15:1234
-#EXTINF:0, Kino Klub
-http://89.252.32.96:81/udp/233.191.133.20:1234
-#EXTINF:0, LNT
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:LNT.smil/playlist.m3u8
-#EXTINF:0, M1
-http://109.87.252.90:8888/udp/238.0.0.14:1234
-#EXTINF:0, M1
-http://91.224.178.9:6001/02
-#EXTINF:0, Malyatko TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:0, Mariupol TV
-http://31.202.255.142:9000/udp/239.1.0.1:1234
-#EXTINF:0, MCM TOP
-http://46.44.23.53:30000/udp/224.0.90.48:1234
-#EXTINF:0, Mix
-http://147.135.221.172:8000/get.php?username=sashaonas&password=Xsz8qbOaf8&type=m3u
-#EXTINF:0, MTV
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=mtv.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/mtv-online.html
-#EXTINF:0, Nat. Geo.
-http://31.43.120.162:8115
-#EXTINF:0, nickelodeon
-http://bit.do/nickelodeon-lore
-#EXTINF:0, NTK Minsk
-http://by.mnogo-tv.com:1937/live/INFO.stream/index.m3u8
-#EXTINF:0, NTV + Cinema Club
-http://109.87.252.90:8888/udp/238.0.16.40:1234
-#EXTINF:0, NTV + Movies Plus
-http://ts://95.188.89.43:1234/udp/233.7.70.247:5000
-#EXTINF:0, NTV + Premiere
-http://109.87.252.90:8888/udp/238.0.16.39:1234
-#EXTINF:0, NTV + Sport Online
-http://194.143.146.17:5026/udp/239.0.0.146:4000
-#EXTINF:0, NTV MIR
-http://109.87.252.90:8888/udp/238.0.0.68:1234
-#EXTINF:0, Ocean TV
-http://176.49.24.192:1234/udp/233.7.70.46:5000
-#EXTINF:0, Ocean TV
-http://5.137.134.227:1234/udp/233.7.70.46:5000
-#EXTINF:0, ORT
-http://109.248.95.63:3371//udp/239.195.0.1:1234
-#EXTINF:0, ORT
-http://109.248.95.63:3371//udp/239.195.0.1:1234
-#EXTINF:0, Perec
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=perec.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/perec-online.html
-#EXTINF:0, Planet
-http://109.87.252.90:8888/udp/238.0.0.76:1234
-#EXTINF:0, R.ates:Fighter TV
-http://109.95.47.249:1919/udp/239.0.0.24:4000
-#EXTINF:0, RBC
-http://91.221.37.15:8000/play/a001
-#EXTINF:0, REN TV
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=ren.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/ren-tv-online.html
-#EXTINF:0, REN TV
-http://93.91.113.8:9999/play/a066?m3u8
-#EXTINF:0, rentv
-rtmp://109.201.157.183/ren/ren3
-#EXTINF:0, Rossia 24
-http://178.163.101.204:4022/udp/234.0.0.207:2000
-#EXTINF:0, Rossia 24
-http://188.134.94.176:81/udp/235.10.10.8:1234
-#EXTINF:0, Rossia 24
-http://live.tvtomsk.ru/hls/RT-24.m3u8?streamType=live
-#EXTINF:0, ROSSIA-24
-http://109.226.90.90:4022/udp/232.0.1.1:1234
-#EXTINF:0, rossia24
-http://46.239.218.131:1952/hls/rossia24.m3u8
-#EXTINF:0, Rossia24
-http://31.3.245.58:80/iptv/5FPKFTCEKU/507/index.m3u8?version=1
-#EXTINF:0, rossiya
-http://91.221.37.15:8000/play/a002
-#EXTINF:0, RT HD
-http://109.226.67.142:4022/udp/232.0.1.36:1234
-#EXTINF:0, rtmp://kprf-htlive-rts.cdn.ngenix.net/live/_definst_/stream_high
-rtmp://kprf-htlive-rts.cdn.ngenix.net/live/_definst_/stream_high
-#EXTINF:0, rtmp://tv.simpalsmedia.com/playmd/70994446-de92-402b-ad45-ee25a188b9d6
-rtmp://tv.simpalsmedia.com/playmd/70994446-de92-402b-ad45-ee25a188b9d6
-#EXTINF:0, rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
-rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
-#EXTINF:0, RU
-http://178.158.194.48:9981/playlist
-#EXTINF:0, Ru
-http://188.120.245.65:8000/playlist.m3u8
-#EXTINF:0, Ru
-http://91.211.143.214:3333/playlist.m3u8
-#EXTINF:0, Ru
-http://185.10.211.14:7099/playlist.m3u8
-#EXTINF:0, RU
-http://79.137.127.221:8000/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:9003/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:9002/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:9001/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:9000/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:7003/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:7002/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:7001/playlist.m3u8
-#EXTINF:0, Ru
-http://212.34.244.28:7000/playlist.m3u8
-#EXTINF:0, RU
-http://91.122.192.206:8000/playlist.m3u8
-#EXTINF:0, RU
-http://89.254.128.23:8000/playlist.m3u8
-#EXTINF:0, RU IPTV
-http://62.210.91.25:8080/get.php?username=aXtYSUTg0N&password=XNQgG7XriC&type=m3u
-#EXTINF:0, RU TV
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=rutv.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/ru-tv-online.html
-#EXTINF:0, RU, RO
-http://5.189.183.124:8085/get.php?username=Telegram&password=HDMUTV&type=m3u
-#EXTINF:0, RU, UK, USA, PT, CH
-http://topchantv.net:3456/get.php?username=UZ201711&password=topchantv.net&type=m3u
-#EXTINF:0, RUS1
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=rus1.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/rossiya-1-online.html
-#EXTINF:0, RUS2
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=rus2.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/rossiya-2-online.html
-#EXTINF:0, Russia
-http://185.93.3.83:5006/playlist.m3u8
-#EXTINF:0, Russia 24
-http://rm-edge-1.cdn2.streamago.tv:80/streamagoedge/1051/223/Russia 24.m3u8
-#EXTINF:0, Russia HD
-http://213.5.28.3:8080/udp/234.5.2.46:1234
-#EXTINF:0, Russia HD
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:russia1_ru/playlist.m3u8
-#EXTINF:0, Russia playlist
-http://91.237.40.215:8000/playlist.m3u8
-#EXTINF:0, RUSSIA TODAY
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:0, Russia, Ukraine,HU, CZ
-http://bit.do/d4fbC
-#EXTINF:0, russian
-http://tv.seversk.ru/playlist.m3u
-#EXTINF:0, russian
-http://tv.seversk.ru/playlist.m3u
-#EXTINF:0, Russian
-http://46.8.128.59:8000/playlist.m3u8
-#EXTINF:0, Russian
-http://94.228.201.117:8000/playlist.m3u8
-#EXTINF:0, Russian
-http://87.76.91.24:8010/playlist.m3u8
-#EXTINF:0, Russian
-http://78.81.157.139:81/playlist.m3u8
-#EXTINF:0, Russian
-http://94.158.80.117:9000/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22223/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22222/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22220/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22219/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22218/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22217/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22216/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22215/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22214/playlist.m3u8
-#EXTINF:0, Russian
-http://185.39.194.20:22213/playlist.m3u8
-#EXTINF:0, Russian
-http://91.202.14.3:8001/playlist.m3u8
-#EXTINF:0, Russian
-http://77.235.14.92:8000/playlist.m3u8
-#EXTINF:0, Russian
-http://95.140.197.69:800/playlist.m3u8
-#EXTINF:0, Russian
-http://109.200.157.246:8000/playlist.m3u8
-#EXTINF:0, Russian
-http://195.88.52.102:8000/playlist.m3u8
-#EXTINF:0, Russian + World
-http://iptv.ndasat.com:88/get.php?username=329995091896719&password=329995091896719&type=m3u
-#EXTINF:0, Russian astra
-http://62.109.21.245:8000/playlist.m3u8
-#EXTINF:0, Russian astra
-http://185.63.196.22:8000/playlist.m3u8
-#EXTINF:0, Russian astra
-http://217.23.138.186:8888/playlist.m3u8
-#EXTINF:0, Russian astra
-http://178.34.182.154:5050/playlist.m3u8
-#EXTINF:0, Russian astra
-http://193.107.128.8:8552/playlist.m3u8
-#EXTINF:0, Russian astra
-http://84.248.98.93:8000/playlist.m3u8
-#EXTINF:0, Russian Astra
-http://91.192.168.242:6001/playlist.m3u8
-#EXTINF:0, Russian astra
-http://178.125.2.143:7018/playlist.m3u8
-#EXTINF:0, Russian Astra playlist
-http://163.172.19.202:8000/playlist.m3u8
-#EXTINF:0, Russian Astra playlist
-http://146.185.243.250:608/playlist.m3u8
-#EXTINF:0, Russian Astra playlist
-http://146.185.243.250:8000/playlist.m3u8
-#EXTINF:0, Russian channels
-http://178.125.131.31:7016/playlist.m3u8
-#EXTINF:0, Russian IPTV
-http://185.102.219.40:8011/playlist.m3u8
-#EXTINF:0, Russian IPTV
-http://86.57.148.223:9981/playlist
-#EXTINF:0, Russian IPTV
-http://iptv.ndasat.com:88/get.php?username=322551666151906&password=322551666151906&type=m3u
-#EXTINF:0, Russian IPTV
-http://185.76.81.11:8008/playlist.m3u8
-#EXTINF:0, Russian IPTV
-http://178.125.141.63:7011/playlist.m3u8
-#EXTINF:0, Russian IPTV
-http://live.hdmu-tv.online:8085/get.php?username=50ZDTZRgDz&password=nmzZ3a7mTh&type=m3u
-#EXTINF:0, Russian playlist
-http://149.202.66.228:8000/get.php?username=111&password=111&type=m3u
-#EXTINF:0, Russian playlist
-http://www.astsystems.ru/files/iptv/iptvv.m3u
-#EXTINF:0, Russian playlist
-http://83.242.108.1:8890/playlist.m3u8
-#EXTINF:0, Russian playlist
-http://212.232.62.136:29981/playlist
-#EXTINF:0, Russian playlist
-http://77.235.14.92:8001/playlist.m3u8
-#EXTINF:0, Russian playlist
-http://77.235.14.92:8002/playlist.m3u8
-#EXTINF:0, Russian playlist
-http://77.235.14.92:8005/playlist.m3u8
-#EXTINF:0, Russian playlist
-http://77.235.14.92:8006/playlist.m3u8
-#EXTINF:0, Russian playlist
-http://188.43.7.65:8010/playlist.m3u8
-#EXTINF:0, Russian playlist astra
-http://217.13.215.16:8000/playlist.m3u8
-#EXTINF:0, s
-http://cdn2-mnocotv.com:1935/live/Kinoshtorm/playlist.m3u8
-#EXTINF:0, Sinema 1
-rtsp://178.218.212.102:1935/live/Stream1
-#EXTINF:0, Sinema 2
-rtsp://178.218.212.102:1935/live/Stream2
-#EXTINF:0, Sinema 3
-rtsp://178.218.212.102:1935/live/Stream3
-#EXTINF:0, Sinema 4
-rtsp://178.218.212.102:1935/live/Stream4
-#EXTINF:0, sip
-http://siptv.eu/lists/example.m3u
-#EXTINF:0, Skrypin UA
-http://kiev1-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:0, sltv
-http://www.twitch.tv/starladder1
-#EXTINF:0, Soni SciFi
-http://95.164.46.145:61162/udp/239.192.3.107:2121
-#EXTINF:0, Sony
-http://31.43.120.162:8112
-#EXTINF:0, Sony Sci Fi
-http://31.43.120.162:8113
-#EXTINF:0, SONY Sci-Fi
-http://bit.do/sonyscifi-lore
-#EXTINF:0, Sony Sci-Fi - DualAudio
-http://194.143.146.17:5026/udp/239.0.0.171:4000
-#EXTINF:0, Sony SciFi
-http://77.91.77.21:6730/?sid=df9542c4283a5s48b32633f6e53fffe7
-#EXTINF:0, sony scifi
-http://31.43.120.162:8113/
-#EXTINF:0, Sony Turbo
-http://31.128.133.226:3371/udp/239.1.11.7:1234
-#EXTINF:0, SONY TV
-http://bit.do/sony-lore
-#EXTINF:0, Sport 1 HD
-http://iptv.malnet.ru:8080/udp/234.5.3.11:1234
-#EXTINF:0, Sport1
-http://31.43.120.162:8110
-#EXTINF:0, STB
-http://109.87.252.90:8888/udp/238.0.0.8:1234
-#EXTINF:0, Stolny Grad TV
-http://stolnytv.cdnvideo.ru/hls/1.m3u8
-#EXTINF:0, STS
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=sts.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/sts-online.html
-#EXTINF:0, telekafe
-http://api.peers.tv:80/timeshift/telekafe/16/playlist.m3u8
-#EXTINF:0, TET
-http://109.87.252.90:8888/udp/238.0.0.11:1234
-#EXTINF:0, TET
-http://91.244.24.156:9999/udp/239.255.250.41:1234
-#EXTINF:0, TMB Ru TV
-http://topchantv.net:3456/live/Best_top_201802/U0svQmC5GL/489.ts
-#EXTINF:0, TNT
-http://109.87.252.90:8888/udp/238.0.0.173:1234
-#EXTINF:0, TNT
-http://ftp.barstv.ru:4080/
-#EXTINF:0, TNT Alfa
-http://46.227.30.123:4022/udp/238.2.4.80:1234
-#EXTINF:0, Top '80
-http://topchantv.net:3456/live/Best_top_201802/U0svQmC5GL/277.ts
-#EXTINF:0, Top Cinema HD
-http://topchantv.net:3456/live/Best_top_201802/U0svQmC5GL/1611.ts
-#EXTINF:0, Top Music HD
-http://topchantv.net:3456/live/Best_top_201802/U0svQmC5GL/1666.ts
-#EXTINF:0, Top Vostok
-http://topchantv.net:3456/live/Best_top_201802/U0svQmC5GL/6.ts
-#EXTINF:0, Top_Music
-http://topchantv.net:3456/live/Best_top_201802/U0svQmC5GL/428.ts
-#EXTINF:0, TR, RU
-http://netsporhd.net:4587/get.php?username=kent&password=kent&type=m3u
-#EXTINF:0, Travel+Adventure
-http://93.91.113.8:9999/play/a07n/index.m3u8
-#EXTINF:0, TV 1000 Action
-http://92.127.194.34:1234/udp/225.54.23.18:5000
-#EXTINF:0, TV 3
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=tv3.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/tv3-online.html
-#EXTINF:0, TV 3
-http://93.85.93.227:80/hls/CH_TV3/bw2000000/playlist.m3u8
-#EXTINF:0, TV Plus
-http://62.64.92.118/live2/index.m3u8
-#EXTINF:0, TV-3
-rtmp://217.114.181.70/livepkgr/_definst_/tv3new.flv
-#EXTINF:0, TV1000
-http://127.0.0.1:6878/ace/getstream?id=c76b95ef59c14494b728d284c27c91dfa5770c0e&ErolPazarcik;;;
-#EXTINF:0, TV1000 action
-http://77.91.77.22:6709/?sid=e69de46abe28c6t59e6e729330d800ad
-#EXTINF:0, TV1000 ACTION
-http://87.76.12.224:4022/udp/239.0.13.1:1234
-#EXTINF:0, TV3 Latvia
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV3.smil
-#EXTINF:0, TV3 Latvia
-http://71.sh.tvshka.net/~shzr5jYqNOi8k/71/
-#EXTINF:0, TV5 Latvia
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV5.smil
-#EXTINF:0, TV6 Latvia
-http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV6.smil
-#EXTINF:0, TVC
-http://109.87.252.90:8888/udp/238.0.0.105:1234
-#EXTINF:0, TVC
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=tvc.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/tvc-online.html
-#EXTINF:0, TVC
-http://91.244.168.156:81/play/a00k
-#EXTINF:0, U
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=u.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/u-online.html
-#EXTINF:0, ukraina HD
-http://51.15.56.212:8081/tv/ukraina/chunks.m3u8
-#EXTINF:0, UKRAINE
-http://109.87.252.90:8888/udp/238.0.0.9:1234
-#EXTINF:0, Ukraine
-http://37.152.128.66:6511/playlist.m3u8
-#EXTINF:0, Ukraine iptv
-http://194.0.157.229:1504/playlist.m3u8
-#EXTINF:0, Ukraine playlist
-http://ip1.ath1.pw:8080/get.php?username=hamza&password=hamza&type=m3u
-#EXTINF:0, Ukraine playlist astra
-http://195.189.249.37:8000/playlist.m3u8
-#EXTINF:0, Ukraine, Russia
-http://176.120.119.77:81/playlist.m3u8
-#EXTINF:0, union.tv
-http://r.tk-union.tv:8000/stream
-#EXTINF:0, Universal_Channel
-http://77.91.77.22:6702/?sid=e69de46abe28c6t59e6e729330d800ad
-#EXTINF:0, Vesti FM
-http://ts://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
-#EXTINF:0, Vesti RU
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
-#EXTINF:0, VH1 Classic
-http://194.143.146.17:5026/udp/239.0.0.44:4000
-#EXTINF:0, Viasat Motor
-http://84.32.80.15:7781/udp/233.136.41.125:1234
-#EXTINF:0, VP
-http://188.138.75.245/hls/mega/index.m3u8
-#EXTINF:0, Wordl playlist
-http://sporti.tv:6500/get.php?username=VLcrjqw2ud&password=n76SRhylDe&type=m3u
-#EXTINF:0, zolotoe
-http://zolotoe.tv/playlist/DT32dGwdbaSk4gDdhZB6.m3u
-#EXTINF:0, ZVEZDA
-rtmp://$OPT:rtmp-raw=rtmp://95.211.209.85:80/live/ playpath=zvezda.stream swfUrl=http://lapti.tv/uppod.swf live=1 pageUrl=http://lapti.tv/zvezda-online.html
-#EXTINF:0, ÐšÐ¾Ð½Ñ†ÐµÐ¿Ñ†Ð¸Ñ
-mms://213.141.145.170/ts_tv
-#EXTINF:0, ÐŸÐµÑ€Ð²Ñ‹Ð¹ ÐºÐ°Ð½Ð°Ð»
-http://176.102.162.171:81/udp/239.192.10.80:1234
-#EXTINF:0, ÐÐ½Ð¸Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹
-mms://213.141.145.170/ts_tv10
-#EXTINF:0, ÐÐ¢Ð’
-http://86.110.161.123:12345/udp/226.100.10.47:2000
-#EXTINF:0, ÐÐ°ÑƒÑ‡Ð½Ñ‹Ð¹
-mms://213.141.145.170/ts_tv4
-#EXTINF:0, ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸
-mms://213.141.145.170/ts_tv11
-#EXTINF:0, Ð Ð¾ÑÑÐ¸Ñ 1
-http://4BA9EBDB07C05883:@5.159.96.170:8000/rus1air
-#EXTINF:0, Ð Ð¾ÑÑÐ¸Ñ 2
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport
-#EXTINF:0, Ð¢Ð²Ð¾Ð¹ ÑÑ‚Ñ€Ð¾Ð¹
-mms://213.141.145.170/ts_tv1
-#EXTINF:0, Ð¢ÐµÐ»ÐµÐ¿ÐµÑ€ÐµÐ´Ð°Ñ‡Ð¸
-mms://213.141.145.170/ts_tv3
-#EXTINF:0, Ð¢ÐµÐ¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹
-mms://213.141.145.170/ts_tv7
-#EXTINF:0, Ð¢Ð’-3
-http://iptv.fibrenet.ru:8080/tv32
-#EXTINF:0, Ð¢Ð’-3
-http://iptv.fibrenet.ru:8080/tv34
-#EXTINF:0, Ð¢Ð’Ð¦
-http://iptv.fibrenet.ru:8080/tvcu
-#EXTINF:0, Ð¢Ð’Ð¦2
-http://iptv.fibrenet.ru:8080/tvcs
-#EXTINF:0, Ð¢Ð’Ð¦3
-http://iptv.fibrenet.ru:8080/tvcdv
-#EXTINF:0, Ð¥ÑƒÐ´Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹
-mms://213.141.145.170/ts_tv8
-#EXTINF:0, Ð®Ð¼Ð¾Ñ€ Ð¢Ð’
-http://iptv.fibrenet.ru:8080/hb
-#EXTINF:0, Ð—Ð²ÐµÐ·Ð´Ð°
-http://iptv.fibrenet.ru:8080/zvezda3
-#EXTINF:0, Ð—Ð²ÐµÐ·Ð´Ð° (-3Ñ‡)
-http://iptv.fibrenet.ru:8080/zvezda
-#EXTINF:0, Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¹
-mms://213.141.145.170/ts_tv6
-#EXTINF:0, Ð”Ð¾Ð¼Ð°ÑˆÐ½Ð¸Ð¹ ÐœÐ°Ð³Ð°Ð·Ð¸Ð½
-http://iptv.fibrenet.ru:8080/dmag
-#EXTINF:0, Дождь
-http://92.223.103.92:8080/live/telekanal_dozhd/livestream/129.m3u8
-#EXTINF:0, Звезда
-http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
-#EXTINF:0, Звезда
-http://178.162.205.76/video/Flm1IKW1xIf9Ubjyd2PZSg/4/playlist.m3u8
-#EXTINF:0, Красная Линия
-http://93.91.113.8:9999/play/a0bn?streamType=live
-#EXTINF:0, Литературный клуб TV
-http://hls-rossp.cdnvideo.ru/hls/590cbe58702b937ce5990bb8.m3u8
-#EXTINF:0, Луганск 24
-http://91.103.120.140:8000/lugansk24.ogg?mp4
-#EXTINF:0, НТВ ХИТ
-http://iptv-zdox.usite.pro/vhgixgmhmhbhjeg/ntv-hit.m3u8
-#EXTINF:0, Первый канал
-http://93.179.122.25:8080/udp/239.195.32.1:1234
-#EXTINF:0, Первый канал
-http://hlstv.brn.211.ru/239.211.211.14/stream.m3u8
-#EXTINF:0, Первый канал
-http://37.235.131.7:81/udp/225.50.66.93:1234
-#EXTINF:0, Первый канал
-http://94.253.17.13:4022/udp/234.5.2.1:1234
-#EXTINF:0, Первый канал
-http://persik.by/stream/1417/252987/8.m3u8
-#EXTINF:0, Первый канал
-http://62.106.102.122:4022/udp/232.0.3.1:1234
-#EXTINF:0, Первый канал
-http://5.28.25.45:4022/udp/232.0.3.1:1234
-#EXTINF:0, Первый канал (+4)
-http://5.137.39.199:1234/udp/225.54.205.129:5000
-#EXTINF:0, Первый канал HD
-http://93.91.113.8:9999/play/a0ag
-#EXTINF:0, Первый канал HD
-http://178.163.13.86:4022/udp/234.0.0.172:2000
-#EXTINF:0, Первый канал Евразия
-http://109.248.236.41:4433//udp/238.1.1.7:1234
-#EXTINF:0, Радио ДНР-24
-http://radio.dnr24.su:8000/live
-#EXTINF:0, Радио Спутник
-http://nfw.video.rian.ru/flv/audio.aspx?ID=68862011&type=mp3
-#EXTINF:0, РОССИЯ 1
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
-#EXTINF:0, Россия 1
-http://www.satorbita.com/iptv/free/free44_rostelecom-1.php?v=aHR0cDovLzkyLjEyNy4yNDcuNjk6MTIzNC91ZHAvMjI1LjU0LjIwNS4xMzA6NTAwMA==
-#EXTINF:0, Россия 1 (Н.Новгород)
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:nnov.smil/playlist.m3u8
-#EXTINF:0, Россия 1 HD
-http://cdn-01.bonus-tv.ru:8080/russia_hd/index.m3u8?token=null
-#EXTINF:0, Россия 24
-http://37.9.153.18:4022/udp/232.0.1.1:1234
-#EXTINF:0, РоссиЯ 24
-http://193.106.241.216:4022/udp/232.0.1.1:1234
-#EXTINF:0, Россия 24
-http://live.tvtomsk.ru/hls/RT-24.m3u8?rossia24
-#EXTINF:0, Россия 24 (Томск)
-http://ts://live.tvtomsk.ru/hls/RT-24.m3u8
-#EXTINF:0, Россия24
-http://31.41.63.88:8080/udp/239.195.32.4:1234
-#EXTINF:0, Россия24
-http://217.107.192.48:9998/play/Россия_24?m3u8
-#EXTINF:0, Русский Роман HD
-http://176.31.18.149:8080/RusskiyRomanHD/video.m3u8
-#EXTINF:0, Рщссия HD
-http://178.33.62.218:8080/RossiaHD/playlist.m3u8
-#EXTINF:0, Санкт-Петербург ТВ
-http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
-#EXTINF:0, Севастополь ТВ
-http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
-#EXTINF:0, Страх HD
-http://89.160.222.14:1984/fld_hls_o23sd2TR/tnt_hd.m3u8
-#EXTINF:0, СТС
-http://misteri4ip.ddns.net/iptv/VYXE3YCZLLL9Z3/506/index.m3u8
-#EXTINF:0, ТВ Центр
-rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq?streamType=live
-#EXTINF:0, тнт HD
-http://89.160.222.14:1984/fld_hls_o23sd2TR/tnt_hd.m3u8
+﻿#EXTM3U
+#EXTINF:-1,Первый канал
+http://streams.iptv.zone:80/p/342576/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал
+http://streams.iptv.zone:80/p/338936/c/13/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+2)
+http://streams.iptv.zone:80/p/340037/c/193/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+2)
+http://streams.iptv.zone:80/p/331490/c/16/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+4)
+http://streams.iptv.zone:80/p/331490/c/15/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+4)
+http://streams.iptv.zone:80/p/322724/c/112/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+4)
+http://streams.iptv.zone:80/p/277376/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+4)
+http://streams.iptv.zone:80/p/257735/c/177/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+4)
+http://streams.iptv.zone:80/p/337286/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+6)
+http://streams.iptv.zone:80/p/331490/c/14/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+6 Владивосток)
+http://streams.iptv.zone:80/p/251234/c/1/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+6 Хабаровск)
+http://streams.iptv.zone:80/p/249872/c/18/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+6 Благовещенск)
+http://streams.iptv.zone:80/p/226346/c/3/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+8)
+http://streams.iptv.zone:80/p/331490/c/13/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+8)
+http://streams.iptv.zone:80/p/291789/c/179/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Первый канал (+8)
+http://streams.iptv.zone:80/p/251234/c/250/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1
+http://streams.iptv.zone:80/p/342576/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1
+http://streams.iptv.zone:80/p/343817/c/93/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 
+http://streams.iptv.zone:80/p/342457/c/86/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1
+http://streams.iptv.zone:80/p/338936/c/85/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+2) (Урал)
+http://streams.iptv.zone:80/p/340037/c/202/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+2) (Урал)
+http://streams.iptv.zone:80/p/329833/c/8/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+2) (Югория)
+http://streams.iptv.zone:80/p/316448/c/232/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+2) (Югория)
+http://streams.iptv.zone:80/p/278054/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Урал)
+http://streams.iptv.zone:80/p/250219/c/115/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+2)
+http://streams.iptv.zone:80/p/146551/c/5/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+4)
+http://streams.iptv.zone:80/p/337286/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+4)
+http://streams.iptv.zone:80/p/292029/c/105/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,РОССИЯ 1 (+4)
+http://streams.iptv.zone:80/p/63020/c/47/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1.m3u8
+#EXTINF:-1,РОССИЯ 1 (+6)
+http://streams.iptv.zone:80/p/251234/c/206/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+6)
+http://streams.iptv.zone:80/p/187977/c/108/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+6)
+http://streams.iptv.zone:80/p/134861/c/2/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+8)
+http://streams.iptv.zone:80/p/291789/c/5/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+8)
+http://streams.iptv.zone:80/p/291230/c/5/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
+#EXTINF:-1,Россия 1 (+8)
+http://streams.iptv.zone:80/p/251234/c/3/u/1807/1E93k7CQUA2gBac4VJKFwDtGt1dfm1
