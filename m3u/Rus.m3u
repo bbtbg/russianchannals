@@ -9,3 +9,7 @@ http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/varia
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2&checkedby:hlscat.com
 #EXTINF:-1, НТВ +4
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:-1, Planeta RTR, RU | Planeta RTR
+https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1, RT
+https://rt-news.secure.footprint.net/1103.m3u8?checkedby:hlscat.com
