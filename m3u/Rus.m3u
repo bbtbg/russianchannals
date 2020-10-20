@@ -1,3 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,TV1000 Comedy HD
-http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:-1,	AM | Yerkir Media, Yerkir Media, Yerkir Media TV
+http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1, Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
