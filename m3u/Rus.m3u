@@ -17,3 +17,527 @@ https://rt-news.secure.footprint.net/1103.m3u8?checkedby:hlscat.com
 https://rut-v.gcdn.co/streams/1410_95/720n/index.m3u8?checkedby:hlscat.com
 #EXTINF:-1, 2BE FHD BE
 http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/2518?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",12 канал (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",2x2
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",31 канал (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="General",360°
+http://video1.in-news.ru/360/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://static.piter.tv/img/47channel/logo.png" group-title="Local;Undefined",47 Канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png" group-title="Entertainment",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://online-red.com/images/tv/86.png" group-title="Local;Undefined",86 канал (Сургут),Телеканал 86 (Сургут)
+https://sitv.ru/hls/s861024.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/rxwTjuT.jpg" group-title="Undefined",BST TV Bashkirskoe Sputnikovoe TV,RU | BST TV Bashkirskoe Sputnikovoe TV
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Bmecte PO HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Bmecte Po HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/GGLbJIi.jpg" group-title="Undefined",Brodilo TV,Brodilo.TV,RU | Brodilo TV
+http://brodilo.tv/channel.php?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",CGTN Russian (Opt-3)
+https://russian-live.cgtn.com/data/d1/hls/17592_4.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Djing TV
+https://www.djing.com/tv/28638-04.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Djing Wild EDM HD
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Epic Drama HD
+http://hls.trinity-tv.net/stream/4zh7brpw5jhxwyy2m3x3y64n7628tqgs4ii6sgvid5mssvcafie2zdf6wjja5p7533wswqx7a4gk684eskfinyejxxqxqvu8jjdfb6k5d52zrab7ikvyjxm33csefu98ip97gb5apma2pe4m2enm2hka.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/EuroNews.png" group-title="Undefined",EuroNews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",FAN HD
+https://hls.goodgame.ru/manifest/157239_master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",FTV HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/sBmqwwQ.png" group-title="Undefined",Fox Life
+http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg" group-title="Undefined",GlobalStar TV,GlobalStar TV (New!)
+http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",HAW ТВ HD
+http://hls.goodgame.ru/hls/33226.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",HD Media 3D HD
+http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",HD КИНО
+https://hls.goodgame.ru/hls/12949_720.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",HDL
+http://89.106.234.3:80/hdl_38_39.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Religious",Impact TV
+http://206.190.141.27:1935/live/impact/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",JTV
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URALIFORM_PERM/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",KURGAN.RU (Курган)
+http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/AxgNvdp.png" group-title="Undefined",Kurai TV,RU | Kurai TV,Курай
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://iptvx.one/icn/luxury.png" group-title="Shop;Undefined",Luxury,Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",MTV (Уфа)
+http://online.mtvmix.ru:18092/ios/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://mtvmix.ru/images/2018/Tsvetnoy_logo_MTV_Mix_16.png" group-title="Local",MTVmix (Уфа)
+http://81.30.182.82:18092/hls/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Naroddip
+http://hls.goodgame.ru/hls/33226.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Ocean TV
+http://91.192.168.242:9091?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",One.by 4K
+http://rtmp.one.by:1499?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",PZN TV
+https://hls.goodgame.ru/hls/12949.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/UYpJFJ9.png" group-title="Undefined",Pervyj Kanal Europa,RU | Pervyj Kanal Europa
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Planeta
+rtsp://stream.teracomm.bg/planeta?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/kGB9fZe.png" group-title="Undefined",Planeta RTR,RU | Planeta RTR
+https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Prosveshenie
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Public TV of Armenia
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/D5M4Gjr.png" group-title="Undefined",RBK,RU | RBK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",RT,RT HD
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/fXqy322.png" group-title="News",RT
+https://rt-news.secure.footprint.net/1103.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Undefined",RT Documentary,RU | RT Documentary
+https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/Du5rsc8.png" group-title="Undefined",RT News,RU | RT News
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/C6fylkt.png" group-title="Documentary",RT Д English
+https://rt-doc.secure.footprint.net/1101.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",RU TV
+https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",RU TV HD
+http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/tb3Os7l.png" group-title="Undefined",RU | Russia 24,Russia 24
+https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/ySedtZl.png" group-title="Undefined",RU | Tamir TV,Tamir TV
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/BOry400.png" group-title="Undefined",RU | Мoscow 24,Мoscow 24,Москва 24 HD
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="Music",RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",RUTV
+https://rutv.gcdn.co/streams/1410_95/1080n/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Radost Moya
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",SONG TV HD Russia
+https://songtvru.ru/lhigh/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",SPORTS HD
+http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",TNT_EXCLUSIV,ТНТ Exclusive (Молдова)
+http://89.28.25.122/hls/tnt_md.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",TV5 (Запорожье)
+http://dmitry-tv.my1.ru/his/ua/CH_TV5.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",TV5MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_4.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Music;Undefined",TVM Channel,TVMChannel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Univer HD
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",UGRA Travel
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",АРИС 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Аист (Иркутск)
+http://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Антимайдан
+http://hls.goodgame.ru/hls/6147.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Арктика 24
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Астрахань 24 HD
+http://83.234.104.142/astrakhan24hd/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Астрахань 24 HD
+https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Астрахань 24 [FHD] +1
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png" group-title="Local",Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Башкортостан 24 HD
+http://live.gtrk.tv/hls/b24-hls.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Брянская губерния
+http://rt-ct-bryansk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Вестник Надыма +2
+http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Ветта 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Волга (Н. Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Восток 24
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Вот ТВ HD
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://www.guberniatv.ru/img/logo.png" group-title="Undefined",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Губерния 33 (Владимир)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Губерния 33 HD
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Губерния Самарская
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ДИАЛОГИ О РЫБАЛКЕ
+http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ДОЖДЬ
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Дзержинск ТВ (Дзержинск)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Дисконт
+http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Домашний
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Домашний +4,Домашний +4 (hlsstr01.svc)
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Дон 24
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Дон 24
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Думская.TV
+https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr-lq/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Думская.TV HD
+https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Дядя Ваня
+http://hls.goodgame.ru/hls/54105.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" group-title="Local",Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Енисей (Красноярск)
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" group-title="Music",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Здоровье Одесса
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://iptvx.one/icn/izvestia.png" group-title="News",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://iptvx.one/icn/izvestia.png" group-title="News",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Инфо 24 HD
+http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU;UA" tvg-logo="" group-title="Undefined",К1
+http://109.68.40.67/life/k1_3/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",КРУГ
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" group-title="Religious",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Кавказ 24
+http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://k-telecom.org/uploadedFiles/images/logo/k_logo_colorblack_RGB.jpg" group-title="Undefined",Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Карусель
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Кино UHD
+http://188.35.9.18:16050/udp/238.0.16.1:69000?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",КиноЗаказ 1
+http://hls.goodgame.ru/hls/12949.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="General;Undefined",Красная линия,Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://ricekb.ru/img/logo.png" group-title="Undefined",Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Кубань 24 Орбита
+https://stream.kuban24.tv:1500/hls/stream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Курай (Уфа)
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" group-title="General",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" group-title="General",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ЛитКлуб ТВ Проза
+http://video.platformcraft.ru/hls/rossp/proza720/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ЛитКлуб ТВ Слово
+http://video.platformcraft.ru/hls/rossp/slovo720/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ЛитКлуб ТВ Стихи
+http://video.platformcraft.ru/hls/rossp/stihi720/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" group-title="Local",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Music;Undefined",Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Между.Net (Междуреченск)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Миллет
+http://live.trkmillet.ru/millet/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Entertainment;Undefined",Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Министерство идей HD
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" group-title="General;Undefined",Мир,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Москва 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Моя Планета
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Моя Удмуртия
+https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Муз союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Music",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НВК Саха
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ННТВ (Нижний Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_NN_NNTV/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НСК 49 (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НТМ
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://saransk-tv.ru/assets/images/slider/170321-pic-01.jpg" group-title="Local;Undefined",НТМ (Мордовия),НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",НТС Спорт
+http://212.112.101.69:8081/stream39/output.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" group-title="Religious",Надежда
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Religious",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png" group-title="News",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Наше Крутое HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Наши города (Когалым)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Religious",Небеса ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://nikatv.ru/public/img/logo2.png" group-title="Undefined",Ника TV,Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новое ТВ
+http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новороссия ТВ,Новороссия ТВ HD
+http://dprtv.phoenix-dnr.ru/novorossia-tv?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новороссия ТВ HD
+http://ott.inmart.tv:8081/19/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="General",Новый мир
+http://persik.by/stream/8682/252987/10231.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Ноябрьск 24
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://ustanovca-tricorol-tv.ru/wp-content/uploads/2017/12/o-tv.png" group-title="Undefined",О2ТВ
+https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ОТВ HD (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ОТС (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ОТС HD
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Оплoт 2 HD
+http://ott.inmart.tv:8081/17/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Оплoт HD
+http://ott.inmart.tv:8081/54/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Оплот ТВ
+http://185.114.136.25/oplot-tv?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Остросюжетное HD
+http://188.35.9.11:2015?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый Метео
+http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый Тульский
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый Тульский HD
+http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал "Евразия"
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый областной (Орел)
+http://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый республиканский
+http://ott.inmart.tv:8081/18/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Продвижение (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/rbk.png" group-title="Undefined",РБК
+http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" group-title="Business",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Business",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://145.239.78.42/logos/rbk.png" group-title="Business",РБК
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" group-title="Business",РБК
+http://92.50.128.180/utv/1358/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Movies;Undefined",РЕН ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",РТС (Хакасия)
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Радио 10
+http://langate.tv/acc/tracks-v1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Радио Вести FM
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Радио Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Радио МАЯК
+https://a635216413-s81121.cdn.ngenix.net/_cdn_auth/secure/v/vh/vod_hls/definst/smil:vh/smil/002/158/108_d20190315164730.smil/chunklist_b1800000_pd2635000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Entertainment",Ратник
+http://online-video.rbc.ru/online/rbctv.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Рифей ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия К
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" group-title="Local",С1 (Сургут)
+https://sitv.ru/hls/stv1024.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",СТБ
+http://188.35.9.11:2002?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Movies",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",СТС +4
+http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",СТС Прима
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Саратов 24
+http://rt-vlg-saratov-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Свое ТВ HD
+http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png" group-title="Undefined",Смайлик ТВ
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" group-title="Religious",Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Music",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Супер
+http://78.140.57.47:8000/play/a011/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Супер (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://online-red.com/images/tv/surgut-24.png" group-title="Local",Сургут 24
+http://video1.in-news.ru/c24/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТБН
+http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТВ Центр,ТВЦ Москва
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТВ-ИН HD
+http://a3569457554-rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТКР (Рязань)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Тивиком HD (+5)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Толк (Барнаул)
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TOLK_BUL.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Undefined",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/6rbVqcY.png" group-title="Undefined",Туган Тел
+http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Удмуртия
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://static.tildacdn.com/tild6230-3662-4537-a334-363564306535/Untitled-4.png" group-title="Undefined",Хузур ТВ
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Хамдан (Элиста)
+http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Хузур ТВ (Татарстан)
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Чаваш Ен (Чебоксары)
+http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Music;Undefined",Шансон ТВ,Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Music",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local;Undefined",Эхо TV (Рязань),Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/ekho-tv.png" group-title="Undefined",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",ЮТВ (Чебоксары)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Ямал Регион
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" group-title="Local",Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8?checkedby:hlscat.com
