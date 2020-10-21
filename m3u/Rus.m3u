@@ -541,3 +541,25 @@ http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8?checkedby:hlscat.com
 http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2&checkedby:hlscat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" group-title="Local",Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="Undefined",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="Undefined",Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",Canvas HD
+http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/25683?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="Local;Undefined",BE | TV Oost,TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="Local",ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="Undefined",Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="Undefined",Eén
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="Undefined",Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="Undefined",Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/eDYaphB.png" group-title="Undefined",Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="Music",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8?checkedby:hlscat.com
