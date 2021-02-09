@@ -1,4 +1,142 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="PublicTelevisionArmenian.bg" tvg-logo="https://i.imgur.com/ZsYvvwL.png" group-title="Հայկական",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXTO96I.png" group-title="Հայկական",USaArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Հայկական", tvg-logo="https://i.imgur.com/dlB4Xb8.jpg",PanArmenian TV
+http://37.221.175.40:8181/PanarmLiveT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9aEQuD.png" group-title="Հայկական",ARTN TV
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 tvg-id="H2.am" tvg-logo="https://i.imgur.com/epzpOBd.jpg" group-title="Հայկական",H2
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-logo="https://i.imgur.com/UGebBNf.jpg" group-title="Հայկական",Armenia TV
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-logo="https://i.imgur.com/UGebBNf.jpg" group-title="Հայկական",Armenia TV HD
+http://spacetv.in/stream/DIPK8H19CP8/175.m3u8
+#EXTINF:-1 tvg-id="Shant.am" tvg-logo="https://i.imgur.com/RzswsbY.jpg" group-title="Հայկական",Shant TV
+http://185.220.35.94:8080/shant/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RzswsbY.jpg" group-title="Հայկական",Shant TV Premium HD
+http://185.220.35.94:8080/shantpremium/index.m3u8
+#EXTINF:-1 tvg-id="Kentron.am" tvg-logo="https://i.imgur.com/esxYXSj.jpg" group-title="Հայկական",Kentron
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 tvg-id="Kentron.am" tvg-logo="https://i.imgur.com/esxYXSj.jpg" group-title="Հայկական",Kentron HD
+http://cdn.onarmtv.com/str/4/output.m3u8
+#EXTINF:-1 tvg-id="YerkirMedia.am" tvg-logo="https://i.imgur.com/rzeUy8s.png" group-title="Հայկական",Yerkir Media
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:-1 tvg-id="ArmNews.am" tvg-logo="https://i.imgur.com/XPPhAYk.jpg" group-title="Հայկական",ArmNews
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:-1 tvg-id="ArmNews.am" tvg-logo="https://i.imgur.com/1cab62S.jpg" group-title="Հայկական",ArmNews HD
+http://cdn.onarmtv.com/str/10/output.m3u8
+#EXTINF:-1 tvg-id="Shoxakat.am" tvg-logo="https://i.imgur.com/f8RKcuo.jpg" group-title="Հայկական",Shoxakat
+http://ott-cdn.ucom.am/s13/04.m3u8
+#EXTINF:-1 tvg-id="21TV.am" tvg-logo="https://i.imgur.com/USGVQIv.png" group-title="Հայկական",Dar 21
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIvRHoB.png" group-title="Հայկական",Azatutyun
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dx8pXXr.png" group-title="Հայկական",5-rd Aliq
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:-1 tvg-id="ATV.am" tvg-logo="https://i.imgur.com/kWwZ5Gr.png" group-title="Հայկական",ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 tvg-id="ATV.am" tvg-logo="https://i.imgur.com/kWwZ5Gr.png" group-title="Հայկական",ATV HD
+http://cdn.onarmtv.com/str/5/output.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWwZ5Gr.png" group-title="Հայկական",Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWwZ5Gr.png" group-title="Հայկական",HayTV ATV
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWwZ5Gr.png" group-title="Հայկական",Xaxaliq ATV
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWwZ5Gr.png" group-title="Հայկական",Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWwZ5Gr.png" group-title="Հայկական",TavaTV ATV
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:-1 tvg-id="UPremium.am" tvg-logo="https://i.imgur.com/MCRZLF8.jpg" group-title="Հայկական",Armenia Premium 1
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Հայկական", tvg-logo="https://i.imgur.com/hpQAzxD.jpg",Armenia Haykino 2
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/GU6dFYa.jpg" group-title="Հայկական",Armenia JanTV 3
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Հայկական", tvg-logo="https://i.imgur.com/OxeyaT2.jpg",Armenia Comedy 4
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Հայկական", tvg-logo="https://i.imgur.com/t1b3ux5.jpg",Armenia Tuntunik 5
+http://ott-cdn.ucom.am/s46/04.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Հայկական", tvg-logo="https://i.imgur.com/LEs3dUA.png",Armenia Cinema 6
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="Հայկական",tvg-logo="https://i.imgur.com/pAfj5yY.png",HayastanTV
+http://cf.moskvatv.com/live/hayastantv/rhrthdvduwnewuine/120.m3u8
+#EXTINF:-1 group-title="Հայկական",tvg-logo="https://i.imgur.com/uhmZBd4.png", FortunaTV
+http://217.113.29.82:27709/FortunaTV/index.m3u8?token=fort5454782tok4112145shgadna221454
+#EXTINF:-1 group-title="Հայկական", tvg-logo="https://i.imgur.com/ZU0Zr5s.jpg",Nor Hayastan
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:-1 group-title="Հայկական", tvg-logo="https://i.imgur.com/AfGExQX.jpg", TBN Armenia
+https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:-1 group-title="Հայկական", tvg-logo="https://i.imgur.com/c7CbP8G.jpg",Horizon TV
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 group-title="Հայկական", tvg-logo="https://i.imgur.com/WP01klp.png",Song TV Armenia
+https://songtvam.ru/lhigh/playlist.m3u8
+#EXTINF:-1 group-title="Հայկական", tvg-logo="https://i.imgur.com/5XZNEzp.png",Livenews.am
+https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/7b0493b53e9940494b046f8fdde2c0bd--itadvice--itadvice_720--chunklist.m3u8?hls_proxy_host=9719348103730aa5779c40a2948f495
+#EXTINF:-1 group-title="Հայկական", tvg-logo="https://i.imgur.com/WEvSxrd.jpg",Luys TV
+http://luyse.mediatriple.net/luystv/luystv1/Playlist.m3u8
+#EXTINF:-1 group-title="Հայկական", tvg-logo="https://i.imgur.com/GtzcqtT.jpg",High Vision TV(Middle East)
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/PedGFq2.jpg",Культура
+http://s1.ttranslit.com:8081/kyltyra/index.m3u8?wmsAuthSign=1612832265S0a2e161098b3891fcd678bf3ee51d8f1S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/3g1Nzeh.png",Россия РТР
+http://s1.ttranslit.com:8081/rtr/index.m3u8?wmsAuthSign=1612832514S14248d6ca6131cb0419670c61112b247S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/UBF2Egw.png",РБК TV
+http://s1.ttranslit.com:8081/rbk/index.m3u8?wmsAuthSign=1612832537Sad8952a7ae665cdeafa9384733678b89S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/Eq5FBtL.png",Мега TV
+http://s1.ttranslit.com:8081/mega/index.m3u8?wmsAuthSign=1612832666S15df7307e49aaea9f33171d59c91ce1cS022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/IUaQgPc.jpg",ТВЦ TV
+http://s2.ttranslit.com:8081/s4g_tvc/index.m3u8?wmsAuthSign=1612832742S5fe0d585275d0aef120668347b298ab8S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/kQ1zIwl.png",Первый Канал
+http://s2.ttranslit.com:8081/per_k/index.m3u8?wmsAuthSign=1612832862S78b0380680312175fdb50ee0cb45bfb7S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/mysEMIh.png",НТВ
+http://s1.ttranslit.com:8081/ntv/index.m3u8?wmsAuthSign=1612832985Sfe7b9b7e42b31ac38416b3acfb06157aS022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/krLxx5X.jpg",Наш Кинороман
+http://s1.ttranslit.com:8081/nash_kinoroman/index.m3u8?wmsAuthSign=1612833066S4f2f37321fcb091d6debfe8b37428294S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/JxcOfoh.png",Русская Комедия
+http://s2.ttranslit.com:8081/ryskomedi/index.m3u8?wmsAuthSign=1612833228Sbbb5e0ed2aab2aaad00c1f01bca43532S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/uqS8Yk0.png",НТВ Хит
+http://s2.ttranslit.com:8081/ntv_xit/index.m3u8?wmsAuthSign=1612833607S41fc3f32dbdc2deedee715e245233385S022h24h581h39
+#EXTINF:-1 group-title="Русский", tvg-logo="https://i.imgur.com/bgRkLRs.png",НТВ Сериал
+http://s1.ttranslit.com:8081/ntv_serial/index.m3u8?wmsAuthSign=1612833692S2dedd84573bfd2a3941e567e47235134S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/SzqU9KA.jpg",Cartoon Nerwork
+http://s1.ttranslit.com:8081/car_net/index.m3u8?wmsAuthSign=1612834030S436e3908005d48aaea50bd3ae4cbb847S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/PWL4lFs.jpg",В Гостях у Сказки
+http://s2.ttranslit.com:8081/v_gostjah_skazki/index.m3u8?wmsAuthSign=1612834226Sa9aff2823c1474e2b3a6090bd82e09c3S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/Mi7kpUn.jpg",Ani
+http://s1.ttranslit.com:8081/ani/index.m3u8?wmsAuthSign=1612834314S2ca53809d09efec995b0802e23ae74e3S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/Vtz7hyh.jpg",СоюзМультфильм
+http://s1.ttranslit.com:8081/souzmult/index.m3u8?wmsAuthSign=1612834407Se85aa14f16b357aa32325f76abe866eeS022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/NYucilI.jpg",Ералаш
+http://s2.ttranslit.com:8081/s4g_eralah/index.m3u8?wmsAuthSign=1612834482Sddaa863eef1b17fdfcbf0482710afcdcS022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/FjyYxox.png",2x2
+http://s2.ttranslit.com:8081/s4g_2x2/index.m3u8?wmsAuthSign=1612834544S18e0cb4ee86a93a00052d17eb318874aS022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/z0M5u8B.jpg",Nickelodeon
+http://s1.ttranslit.com:8081/nickelodeon/index.m3u8?wmsAuthSign=1612834759S8b07d297f8f657655e6ce5ec1b268685S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/r2dvEOm.png",Disney TV
+http://s2.ttranslit.com:8081/disney/index.m3u8?wmsAuthSign=1612834855Sf66f9f979bf4f7e20d6e88112e4447d9S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/RdTHnfb.jpg",Мульт
+http://s2.ttranslit.com:8081/s4g_mult/index.m3u8?wmsAuthSign=1612834924S39dcc16024f122a8b9fe3679ec663032S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/96Fcqoc.jpg",Nick JR
+http://s2.ttranslit.com:8081/nickjr/tracks-1,2/index.m3u8?wmsAuthSign=1612834996Sd3fd6e23ead653ca061699072a1f3c25S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/yxFcizu.png",Tiji
+http://s1.ttranslit.com:8081/tiji/index.m3u8?wmsAuthSign=1612835056S31c88f315d656f15e93eba48fd29d442S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/H4vEmEg.png",Gulli
+http://s1.ttranslit.com:8081/gulli/index.m3u8?wmsAuthSign=1612835126Sfe4636abd23798ae05e9d69356ed8506S022h24h581h39
+#EXTINF:-1 group-title="Մանկական", tvg-logo="https://i.imgur.com/EYLXvg2.png",Карусель
+http://s2.ttranslit.com:8081/s4g_karusel/index.m3u8?wmsAuthSign=1612835195S8d9eadc8fbeb59044060c7c5242f517cS022h24h581h39
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EhGw2OE.png" group-title="Radio",Radio Van 103.0 FM Yerevan
+https://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/YfYK9fd.jpg" group-title="Radio",Radio Jan
+https://radiosolo.ru/radio/radiojan/icecast.audio
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/XgxhPNU.jpg" group-title="Radio",Lratvakan Radio
+http://212.34.233.78:8000/live
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/c9H2Im8.png" group-title="Radio",Radio Arev
+http://64.150.176.42:8013/stream
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/veyjOYi.png" group-title="Radio",AYK Radio
+http://64.150.176.42:8117/;listen.mp3
 #EXTINF:-1, H1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8?checkedby:hlscat.com
 #EXTINF:-1, TBN Armenië
