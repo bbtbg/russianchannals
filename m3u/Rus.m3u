@@ -1,4 +1,16 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ HD
+#EXTGRP:Общие
+http://spacetv.in/stream/DA5345HD3KZ/134.m3u8
+#EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ Мир
+#EXTGRP:Общие
+http://spacetv.in/stream/DA5345HD3KZ/223.m3u8
+#EXTINF:-1 group-title="Общие",НТВ (+2)
+#EXTGRP:Общие
+http://spacetv.in/stream/DA5345HD3KZ/98.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia TV
+#EXTGRP:Зарубежные
+http://spacetv.in/stream/DA5345HD3KZ/175.m3u8
 #EXTINF:-1 tvg-id="PublicTelevisionArmenian.bg" tvg-logo="https://i.imgur.com/ZsYvvwL.png" group-title="Հայկական",H1 International
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXTO96I.png" group-title="Հայկական",USaArmenia TV
@@ -7,10 +19,9 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 http://37.221.175.40:8181/PanarmLiveT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9aEQuD.png" group-title="Հայկական",ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-#EXTINF:-1 tvg-id="Shant.am" tvg-logo="https://i.imgur.com/RzswsbY.jpg" group-title="Հայկական",Shant TV
-http://185.220.35.94:8080/shant/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RzswsbY.jpg" group-title="Հայկական",Shant TV Premium HD
-http://185.220.35.94:8080/shantpremium/index.m3u8
+#EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Shant HD
+#EXTGRP:Зарубежные
+http://spacetv.in/stream/DA5345HD3KZ/37.m3u8
 #EXTINF:-1 group-title="Հայկական",tvg-logo="https://i.imgur.com/pAfj5yY.png",HayastanTV
 http://cf.moskvatv.com/live/hayastantv/rhrthdvduwnewuine/120.m3u8
 #EXTINF:-1 group-title="Հայկական",tvg-logo="https://i.imgur.com/uhmZBd4.png", FortunaTV
