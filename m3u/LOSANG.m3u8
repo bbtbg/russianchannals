@@ -65,10 +65,6 @@ http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s73/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-name="ATV Kinoman" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/lidNHkH.png" tvg-url="" group-title="Armenia",ATV Kinoman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s94/index.m3u8
-
 #EXTINF:-1 tvg-id="ATVTava.am" tvg-name="ATV Tava" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/cndJCRU.png" tvg-url="" group-title="Armenia",ATV Tava
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s53/index.m3u8
@@ -116,17 +112,11 @@ http://livestream.usatv.com/hls/m3u8/iNEWARM720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/800px-KTLA_logo.svg.png" group-title="Los Angeles",KTLA LA
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ktla.los.angeles.ca.us.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/KABC-TV_logo.svg/1200px-KABC-TV_logo.svg.png" group-title="Los Angeles",ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AF;DZ;AU" tvg-logo="" group-title="Los Angeles",EMT Media TV Los Angeles CA
 https://hwlive.streamingmediahosting.com/14135-live/0_lkq7fay8/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AF;DZ;AU;KH;EG" tvg-logo="" group-title="Los Angeles",EMT Media TV Los Angeles CA [Geo-blocked]
-https://mediaplatform.streamingmediahosting.com/p/14135/sp/1413500/playManifest/entryId/0_lkq7fay8/format/applehttp/protocol/https/uiConfId/6710347/a.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/640px-CBS_2.svg.png" group-title="Los Angeles",CBS News Los Angeles (720p)
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8?checkedby:iptvcat.com
@@ -143,29 +133,11 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8?chec
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Los Angeles",WeatherNation Los Angeles (720p)
 https://siloh.pluto.tv/lilo/production/WeatherNation/LA/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Los Angeles",CBS KCAL Los Angeles
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kcal.los.angeles.us.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" group-title="Los Angeles",CBS News Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Los Angeles",FOX 11 LOS ANGELES
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIwk23HOCSZrxKcjLK0a8Fg/ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Los Angeles",KCAL9 LOS ANGELES
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHjEPyT4FOheTr-JqAE0aAA/ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Los Angeles",MY13 LOS ANGELES
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKYTMXsZ8mdBq1l3ZezIyAA/ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Los Angeles",NBC4  LOS ANGELES
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAAP-mC6KfUSeROKHzRj_Tk/ts?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="US" tvg-logo="http://mikesandroid.info/UsaLogos/pac-12-losangeles-logo.png" group-title="Los Angeles",PAC-12 Los Angeles FHD US
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10967?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Los Angeles",PBS LOS ANGELES
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJej0lm68IkHjPY6CpqeU6I/ts?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Los Angeles",Telemundo Los Angeles FHD LAM
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45894?checkedby:iptvcat.com
@@ -175,9 +147,6 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45921?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Los Angeles",Univision Los Angeles FHD LAM
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45936?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Los Angeles",Animal Planet
-https://list.iptvcat.com/my_list/s/d27d57f8522d456eeadb225e87f1e277.m3u8
 
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Los Angeles",National Geographic CA
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/170101?checkedby:iptvcat.com
